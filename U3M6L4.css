@@ -1,11 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>HTML5 Semantic Elements</title>
-</head>
+#header{
+  Background-color: red;
+}
 
-<body>
-<time>datetime="2022-06-20T19:OOZ">May 20th 2022 1pm</time>
-</body>
-</html>
+#nav{
+   Background-color: blue;
+}
+
+#body{
+Background-color: yellow;
+}
+
+#footer{
+  Background-color: green;
