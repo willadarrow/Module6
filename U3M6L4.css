@@ -1,15 +1,15 @@
-#header{
+header{
   background-color: red;
 }
 
-#caption{
+caption{
    background-color: blue;
 }
 
-#body{
+body{
 background-color: yellow;
 }
 
-#figcaption{
+figcaption{
   background-color: green;
 }
