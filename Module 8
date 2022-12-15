@@ -1,0 +1,12 @@
+<!DocType html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>List</title>
+</head>
+
+<body>
+<p>This is an ordered list</p>
+<ol>
+<li>Buddy</li>
