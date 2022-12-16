@@ -10,3 +10,15 @@
 <p>This is an ordered list</p>
 <ol>
 <li>Buddy</li>
+<li>Spud</li>
+<li>Panther</li>
+</ol>
+
+<p>This is an unordered list</p>
+<ul>
+<li>Buddy</li>
+<li>Spud</li>
+<li>Panther</li>
+</ul>
+</body>
+</html>
