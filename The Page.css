@@ -1,1 +1,14 @@
+#header{
+  Background-color: red;
+}
 
+#nav{
+   Background-color: blue;
+}
+
+#body{
+Background-color: yellow;
+}
+
+#footer{
+  Background-color: green;
