@@ -5,23 +5,23 @@
 /* html{
 }
 
-.box{
+h1{
   font-size:30px;
 }
 
-p{
+h1{
 font-size:1rem;
 border:0.1rem black soild;
 padding: 1rem;
 }
 
-p{
+h1{
 font-size:1em;
 border:0.1em black soild;
 padding: 1em;  
 } */
 
-.box{
+h1{
   background:blue;
   height:100vh;
 }
