@@ -2,7 +2,25 @@ html{
   font-size:10px;
 }
 
-p{
+p1{
   font-size:1em;
   color: red;
+}
+
+html{
+  font-size:10px;
+}
+
+p2{
+  font-size:2em;
+  color: orange;
+}
+
+html{
+  font-size:10px;
+}
+
+p{
+  font-size:3em;
+  color: yellow;
 }
