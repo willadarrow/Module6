@@ -1,26 +1,17 @@
 html{
-  font-size:10px;
+  font-size:14px;
 }
 
-p1{
-  font-size:1em;
+.1{
+  font-size:4em;
   color: red;
-}
 
-html{
-  font-size:10px;
-}
-
-p2{
-  font-size:2em;
+.2{
+  font-size:3em;
   color: orange;
 }
 
-html{
-  font-size:10px;
-}
-
-p3{
-  font-size:3em;
+.3{
+  font-size:2em;
   color: yellow;
 }
