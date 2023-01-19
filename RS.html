@@ -13,12 +13,25 @@
   Section{
     color: blue;
   }
+  
+  Section p{
+    color: orange;
+  }
+  
+  h1+p{
+    color: purple;
+  }
+  
+  section>p{
+    color: red;
+  }
     </style>
   </head>
   
   <body>
     <section>
       <p>This is my first section</p>
+      This is more text in the first section
     </section>
     
     <section>
@@ -30,6 +43,30 @@
     </section>
     
     <p>This is p outside of any section</p>
+    </body>
+  <body>
+    <h1>This is my first h1</h1>
+    <p>my first p</p>
+    <p>my second p</p>
+    <h1>Ths is my second h1</h1>
+    <section>
+      <p>p in a section</p>
+      <h1>h1 in a section</h1>
+      <p>p following a h1 in a section</p>
+    </section>
+   </body>
+  
+  <body>
+  <section>
+    <p>This is my p in a section</p>
+    <div>
+      <p>This is a p in a div</p>
+    </div>
+      </section>
     
-  </body>
+    <section>
+      <p>my second section</p>
+    </section>
+    </body>
+  
 </html>
