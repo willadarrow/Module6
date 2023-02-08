@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>pseudo-classes and pseudo-elements</title>
+    
+    <style>
+      a:hover{
+        color: blue;
+      }
+      
+      a{
+        color: organge;
+      }
+      
+      a:link{
+        color: green;
+      }
+      
+      a:visited{
+        color: grey;
+      }
+      
+      a:active{
+        color: yellow;
+      }
+      
+      a:focus{
+        color: red;
+      }
+      
+      section:first-child{
+        color: red;
+      }
+      
+      section p:first-child{
+        color: brown;
+      }
+      
+      section p:last-child{
+        color: blue;
+      }
+      
+      section p:only-child{
+        color: orange;
+      }
+      
+      section p:first-letter{
+        color: orange;
+      }
+    </style>
+  </head>
+  
+  <body>
+    <ul>
+      <li><a href="http://www.geekdisorder.com">Geek Disorder</a></li>
+       <li><a href="http://www.google.com">Google</a></li>
+       <li><a href="http://www.cnn.com">CNN</a></li>
+      <li><a href="http://www.notvisited.com">Not Visited</a></li>
+    </ul>
+    <h1>Section 1</h1>
+    <section>
+      <h2>in the first section h2</h2>
+    <p>This is a p in my first section</p>
+    <p>This is my second p in my first section</p>
+      <h2>in the first section h2</h2>
+   </section>
+    <h1>Section 2</h1>
+  <section>
+    <p>This is a p in my second section</p>
+    <p>This is my second p in my second section</p>
+  </section>
+  <h1>Section</h1>
+      <section>
+        <p>
+          
+          first line in first p<br>
+          second line in first p
+        </p>
+        <p>second p</p>
+        </section>
+  </body>
+  
+</html>
